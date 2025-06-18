@@ -1,13 +1,9 @@
 # Identity Conformity and Concealment in Taiwan and South Korea
 **Why Citizens in Divided Societies Are Pressured to Overstate National Pride**
 
----
-
 ## Project Overview
 This repository accompanies the working paper **“Identity Conformity and Concealment in Taiwan and South Korea: Why Citizens in Divided Societies Are Pressured to Overstate National Pride.”**  
 The project investigates how social and political pressures shape the public expression of national identity in two divided democratic contexts. Using list experiments embedded in public opinion surveys, the study examines how dominant identity norms induce conformity across different subgroups.
-
----
 
 ## Research Questions
 
@@ -15,15 +11,11 @@ The project investigates how social and political pressures shape the public exp
 2. Are conformity pressures strongest among identity‐contested subpopulations?  
 3. Which national context displays tighter enforcement of dominant identity norms?
 
----
-
 ## Key Findings
 
 1. **National pride is systematically inflated** when measured with direct questions.  
 2. **Conformity pressures are subgroup‐specific**—dual identifiers in Taiwan and North Korean migrants in South Korea exhibit the largest gaps.  
 3. **South Korea’s identity regime enforces stronger conformity** than Taiwan’s more pluralistic environment.
-
----
 
 ## Authors
 
@@ -35,9 +27,6 @@ The project investigates how social and political pressures shape the public exp
 
 **Funding:** Academy of Korean Studies (Grant **AKS-2023-R-018**)
 
-
----
-
 ## Data
 | Sample | N | Recruitment | Fieldwork Window | Key Quotas |
 |--------|---|-------------|------------------|------------|
@@ -47,15 +36,11 @@ The project investigates how social and political pressures shape the public exp
 
 All surveys received institutional ethics approval (University of Vienna, #00654 & #00997).
 
----
-
 ## Methods
 * **List experiments** (item count technique) estimate hidden endorsement of national pride.
 * Direct pride items use 11‐point identity‐strength scales for subgroup classification.
 * Estimation: `ictreg` linear probability models (indirect) + logistic models (direct) with covariate adjustment (age, sex, education, ideology).
 * Robustness checks include list experiments on support for Taiwan independence and South Korea’s National Security Act.
-
----
 
 ## Replication Materials
 
@@ -68,8 +53,6 @@ This repository accompanies the pre-publication version of the paper and current
 - **Output files** including model objects (`.rds`), figures (`.pdf`), and tabular outputs (`.csv`), corresponding to manuscript and supplementary results.
 
 > **Note:** Until the publication of the final manuscript, these materials will remain private. If you are a reviewer, collaborator, or interested researcher seeking early access, please contact the corresponding author directly. Data access for the North Korean migrant sample is restricted and may require a data-use agreement.
-
----
 
 ## Contact
 
