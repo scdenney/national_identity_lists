@@ -39,8 +39,8 @@ All surveys received institutional ethics approval (University of Vienna, #00654
 
 ## Methods
 * **List experiments** (item count technique) estimate hidden endorsement of national pride.
-* Direct pride items use 11‐point identity‐strength scales for subgroup classification.
-* Estimation: `ictreg` linear probability models (indirect) + logistic models (direct) with covariate adjustment (age, sex, education, ideology).
+* Direct pride items use identity‐strength scales for subgroup classification.
+* Estimation: `ictreg` maximum likelihood models (indirect) + logistic models (direct) with covariate adjustment (age, sex, education, ideology).
 * Robustness checks include list experiments on support for Taiwan independence and South Korea’s National Security Act.
 
 ## Replication Materials
