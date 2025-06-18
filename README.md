@@ -2,8 +2,7 @@
 **Why Citizens in Divided Societies Are Pressured to Overstate National Pride**
 
 ## Project Overview
-This repository accompanies the working paper **“Identity Conformity and Concealment in Taiwan and South Korea: Why Citizens in Divided Societies Are Pressured to Overstate National Pride.”**  
-The project investigates how social and political pressures shape the public expression of national identity in two divided democratic contexts. Using list experiments embedded in public opinion surveys, the study examines how dominant identity norms induce conformity across different subgroups.
+This repository accompanies the working paper **“Identity Conformity and Concealment in Taiwan and South Korea: Why Citizens in Divided Societies Are Pressured to Overstate National Pride.”** The project investigates how social and political pressures shape the public expression of national identity in two divided democratic contexts. Using list experiments embedded in public opinion surveys, the study examines how dominant identity norms induce conformity across different subgroups.
 
 ## Research Questions
 
