@@ -14,9 +14,9 @@ The project investigates how social and political pressures shape the public exp
 
 ## Key Findings
 
-1. **National pride is systematically inflated** when measured with direct questions.  
-2. **Conformity pressures are subgroup‐specific**—dual identifiers in Taiwan and North Korean migrants in South Korea exhibit the largest gaps.  
-3. **South Korea’s identity regime enforces stronger conformity** than Taiwan’s more pluralistic environment.
+1. National pride is systematically inflated** when measured with direct questions.  
+2. Conformity pressures are subgroup‐specific**—dual identifiers in Taiwan and North Korean migrants in South Korea exhibit the largest gaps.  
+3. South Korea’s identity regime enforces stronger conformity** than Taiwan’s more pluralistic environment.
 
 ## Authors
 
