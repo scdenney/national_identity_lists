@@ -53,7 +53,7 @@ This repository accompanies the pre-publication version of the paper and current
 - **Codebook** describing all variables, recoding decisions, subgroup classifications, and list experiment treatments.
 - **Output files** including model objects (`.rds`), figures (`.pdf`), and tabular outputs (`.csv`), corresponding to manuscript and supplementary results.
 
-> **Note:** Until the publication of the final manuscript, these materials will remain private. If you are a reviewer, collaborator, or interested researcher seeking early access, please contact the corresponding author directly. Data access for the North Korean migrant sample is restricted and may require a data-use agreement.
+> **Note:** Until the publication of the final manuscript, these materials will remain private. If you are an interested researcher seeking access, please contact the corresponding author directly.
 
 ## Contact
 
