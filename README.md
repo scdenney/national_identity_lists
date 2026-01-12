@@ -1,8 +1,6 @@
 # Identity Conformity in Taiwan and South Korea: Why Citizens in Divided Societies Are Pressured to Overstate National Pride
 
 ## Project Overview
-This repository accompanies the working paper **“Identity Conformity and Concealment in Taiwan and South Korea: Why Citizens in Divided Societies Are Pressured to Overstate National Pride.”** 
-
 The project investigates how social and political pressures shape the public expression of national identity in two divided democratic contexts. Using list experiments embedded in public opinion surveys, the study examines how dominant identity norms induce conformity across different subgroups.
 
 ## Research Questions
@@ -61,6 +59,7 @@ For questions about the project, replication files, or access to restricted data
 **Steven Denney**  
 Assistant Professor, Leiden University  
 s.c.denney@hum.leidenuniv.nl  
+
 
 
 
